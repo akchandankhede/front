@@ -1,0 +1,38 @@
+.web-map{
+  height: 400px;
+  width: 100%;
+}
+
+body{
+  /*font-family: 'Montserrat', sans-serif !important;*/
+  background-color: whitesmoke;
+}
+
+.esri-locate {
+  border-radius: 50% !important;
+}
+
+.esri-icon-locate {
+  margin-left: 2px;
+  margin-top: 3px;
+  color: #757575 !important;
+}
+
+.esri-attribution {
+  display: none !important;
+}
+
+.esri-ui-corner,.esri-search {
+  width: 100% !important;
+}
+
+.custom-map-address {
+  color: #000 !important;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.custom-map-details {
+  color: #848484;
+  font-size: 1.2rem;
+}
