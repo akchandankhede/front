@@ -1,5 +1,4 @@
 node{
-  def docker = "my docker" // something similar like this
   def app
   stage('Clone Repo'){
     /* Checking git repo */
